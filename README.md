@@ -1,1 +1,1 @@
-# Practice-PHP-Admin-Dashboard
+Practicing PHP Admin Dashboard project
